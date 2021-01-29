@@ -1,0 +1,7 @@
+Projekt1: 
+
+mamy  prognozy z modelu ARIMA 
+dostaniemy progrozy ekspertów
+musimy zaimplementowac sterownik w oparciu o 3 reguły 
+należy uwględnić prognoze ekspercka poprzez terminy niska srednia wysoka 
+ostateczny wydruk to nie mus byc pdf 
